@@ -56,13 +56,10 @@ Aqui estão alguns projetos que venho desenvolvendo:
 - 💼 LinkedIn: ...
 ---
  
-## 📊 Linguagens Mais Utilizadas
- 
-> 💡 Assim que eu tiver repositórios públicos com código, esse card será exibido automaticamente aqui.
- 
-<!--
+## 📊 Linguagens Mais Utilizadas 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMilhomens&layout=compact&theme=default)
--->
+
  
  
 ---
