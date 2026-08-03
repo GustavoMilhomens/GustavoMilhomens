@@ -44,12 +44,10 @@
 Aqui estão alguns projetos que venho desenvolvendo:
  
 - 🍽️ **[Projeto-Integrador-PNAE](https://github.com/GustavoMilhomens/Projeto-Integrador-PNAE)** — Sistema para auxiliar na entrega do lanche no IFTO, onde estudo. *(ainda em desenvolvimento)*
-- 💰 **[site_ed_financeira](https://github.com/GustavoMilhomens/site_ed_financeira)** — Site sobre educação financeira
-- 🎨 **[UI](https://github.com/GustavoMilhomens/UI)** — Projeto de interface
-- 🗄️ **[SupaBase_teste](https://github.com/GustavoMilhomens/SupaBase_teste)** — Testes de integração com Supabase
+- 💰 **[site_ed_financeira](https://github.com/GustavoMilhomens/site_ed_financeira)** — Site sobre educação financeira · [🔗 Ver online](https://gustavomilhomens.github.io/site_ed_financeira/)
+- 🎨 **[UI](https://github.com/GustavoMilhomens/UI)** — Projeto de interface · [🔗 Ver online](https://gustavomilhomens.github.io/UI/)
+- 🗄️ **[SupaBase_teste](https://github.com/GustavoMilhomens/SupaBase_teste)** — Testes de integração com Supabase · [🔗 Ver online](https://gustavomilhomens.github.io/SupaBase_teste/)
 - 📁 **[repositorio-git](https://github.com/GustavoMilhomens/repositorio-git)** — Repositório pessoal com sites e sistemas diversos
-> 💡 Alguns projetos ainda estão incompletos ou em fase de testes.
- 
 ---
  
 ## 📫 Contato
