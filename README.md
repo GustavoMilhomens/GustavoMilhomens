@@ -14,7 +14,9 @@
 - 📚 Curso **Informática Integrado ao Ensino Médio**
 - 🎯 Interesses: Programação, Desenvolvimento de Jogos, Robótica e Desenvolvimento Web
 - 🌱 Objetivo profissional: me tornar um **Desenvolvedor Fullstack**, atuando tanto no front-end quanto no back-end de aplicações
+
 --- 
+
 ## 🛠️ Tecnologias
  
 <p align="left">
@@ -41,6 +43,7 @@
 - Figma
 - TinkerCAD
 - Wokwi
+
 ---
 
 ## 🚧 Projetos
