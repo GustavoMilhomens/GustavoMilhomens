@@ -36,19 +36,19 @@
 - SQL
 - Git
 - GitHub
+
 ---
- 
+
 ## 🚧 Projetos
  
-Ainda estou construindo meu portfólio de projetos! 🔨
-Em breve pretendo adicionar aqui trabalhos desenvolvidos durante o curso, como:
+Aqui estão alguns projetos que venho desenvolvendo:
  
-- [ ] Sistema Escolar
-- [ ] Página de Portfólio
-- [ ] Calculadora
-- [ ] Site Responsivo
-- [ ] Projeto de Robótica
-> 💡 Assim que finalizar meus primeiros projetos, vou atualizar essa seção com links para os repositórios!
+- 🍽️ **[Projeto-Integrador-PNAE](https://github.com/GustavoMilhomens/Projeto-Integrador-PNAE)** — Sistema para auxiliar na entrega do lanche no IFTO, onde estudo. *(ainda em desenvolvimento)*
+- 💰 **[site_ed_financeira](https://github.com/GustavoMilhomens/site_ed_financeira)** — Site sobre educação financeira
+- 🎨 **[UI](https://github.com/GustavoMilhomens/UI)** — Projeto de interface
+- 🗄️ **[SupaBase_teste](https://github.com/GustavoMilhomens/SupaBase_teste)** — Testes de integração com Supabase
+- 📁 **[repositorio-git](https://github.com/GustavoMilhomens/repositorio-git)** — Repositório pessoal com sites e sistemas diversos
+> 💡 Alguns projetos ainda estão incompletos ou em fase de testes.
  
 ---
  
