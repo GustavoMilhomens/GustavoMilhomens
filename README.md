@@ -14,8 +14,7 @@
 - 📚 Curso **Informática Integrado ao Ensino Médio**
 - 🎯 Interesses: Programação, Desenvolvimento de Jogos, Robótica e Desenvolvimento Web
 - 🌱 Objetivo profissional: me tornar um **Desenvolvedor Fullstack**, atuando tanto no front-end quanto no back-end de aplicações
----
- 
+--- 
 ## 🛠️ Tecnologias
  
 <p align="left">
@@ -27,6 +26,9 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TinkerCAD-1DA1F2?style=for-the-badge&logo=autodesk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wokwi-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 - HTML
 - CSS
@@ -36,7 +38,9 @@
 - SQL
 - Git
 - GitHub
-
+- Figma
+- TinkerCAD
+- Wokwi
 ---
 
 ## 🚧 Projetos
