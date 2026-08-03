@@ -56,14 +56,6 @@ Aqui estão alguns projetos que venho desenvolvendo:
 - 💼 LinkedIn: ...
 ---
  
-## 📊 Linguagens Mais Utilizadas 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMilhomens&layout=compact&theme=default)
-
- 
- 
----
- 
 ## 🎯 Objetivos para 2026
  
 - [ ] Aprender React
